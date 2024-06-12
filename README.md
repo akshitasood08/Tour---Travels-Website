@@ -4,6 +4,7 @@ Welcome to The Atlas Moth, your portal to breathtaking destinations and unforget
 The Atlas Moth takes inspiration from the mythical moth carrying the world on its back, symbolizing the vastness of travel and the endless possibilities for discovery. 
 <div style="display: flex;">
   <img src="https://github.com/akshitasood08/Tour-and-Travels-Website/blob/main/images/The%20Atlas%20Moth%201.jpeg" width="200" height="200" alt="Image 1"> 
+  <div style="width: 1px; background-color: black; margin: 0 10px;"></div>
   <img src="https://github.com/akshitasood08/Tour-and-Travels-Website/blob/main/images/The%20Atlas%20Moth%202.jpeg" width="200" height="200" alt="Image 2">
 </div>
 
