@@ -2,8 +2,11 @@
 Welcome to The Atlas Moth, your portal to breathtaking destinations and unforgettable adventures! This project houses the code for a captivating travel website built entirely with HTML and CSS, designed to ignite your wanderlust and guide you on your next exploration.
 
 The Atlas Moth takes inspiration from the mythical moth carrying the world on its back, symbolizing the vastness of travel and the endless possibilities for discovery. 
-![Images](images/The Atlas Moth 1.jpeg)
-![Images](images/The Atlas Moth 2.jpeg)
+<div style="display: flex;">
+  <img src="https://github.com/akshitasood08/Tour-and-Travels-Website/blob/main/images/The%20Atlas%20Moth%201.jpeg" width="200" height="200" alt="Image 1"> 
+  <img src="https://github.com/akshitasood08/Tour-and-Travels-Website/blob/main/images/The%20Atlas%20Moth%202.jpeg" width="200" height="200" alt="Image 2">
+</div>
+
 ***
 ## Let's Build Something Amazing!
 This project is a starting point for creating a beautiful and functional travel website. Feel free to expand upon it with additional features. Here's how you can contribute:
