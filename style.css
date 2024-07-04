@@ -295,7 +295,6 @@ ul.menu {
 
 .cards .location {
   flex: 2;
-  font-size: 8px;
 }
 
 .cards .cost {
@@ -578,7 +577,7 @@ ul.menu {
 
 @media all and (max-width: 1194px) {
   .places .card-box p {
-    font-size: 14px;
+    font-size: 10px;
   }
 }
 
