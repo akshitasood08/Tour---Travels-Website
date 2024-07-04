@@ -295,6 +295,7 @@ ul.menu {
 
 .cards .location {
   flex: 2;
+  font-size: 8px;
 }
 
 .cards .cost {
