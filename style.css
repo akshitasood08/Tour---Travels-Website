@@ -575,7 +575,7 @@ ul.menu {
   }
 }
 
-@media all and (max-width: 1201px) {
+@media all and (max-width: 1205px) {
   .places .card-box p {
     font-size: 14px;
   }
